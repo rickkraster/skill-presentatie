@@ -1,0 +1,7 @@
+{
+  "utterance": "wat doe ik nu",
+  "intent_type": "PresentatieIntent",
+  "intent": {
+    "PresentatieWereldKeyword": "hallo wereld"
+  }
+}
